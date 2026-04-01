@@ -1,5 +1,6 @@
 {
-  "cssTheme": "Shiba Inu",
+  "cssTheme": "Minimal",
   "theme": "obsidian",
-  "accentColor": "#b899ff"
+  "accentColor": "#8aa1ff",
+  "baseFontSize": 19
 }

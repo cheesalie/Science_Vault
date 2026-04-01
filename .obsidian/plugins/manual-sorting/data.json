@@ -1,0 +1,22 @@
+{
+  "customOrder": {
+    "/": {
+      "children": [
+        "Добро пожаловать.md",
+        "Физика.md",
+        "Химия.md",
+        "Полезные ископаемые.md",
+        "Поверхность.md",
+        "Атмосфера.md",
+        "Наука.md",
+        "Луна.md",
+        "Астрономия.md",
+        "Артемида (космическая программа).md"
+      ],
+      "sortOrder": "custom"
+    }
+  },
+  "sortOrder": "custom",
+  "debugMode": false,
+  "newItemPlacement": "top"
+}
