@@ -29,12 +29,7 @@
   },
   "appIcons": {},
   "tabIcons": {},
-  "fileIcons": {
-    "Добро пожаловать.md": {
-      "icon": "lucide-stars",
-      "color": "blue"
-    }
-  },
+  "fileIcons": {},
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {},
