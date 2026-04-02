@@ -1,5 +1,6 @@
 {
   "attachmentFolderPath": "./",
   "newFileLocation": "current",
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false
 }
