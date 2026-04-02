@@ -13,18 +13,25 @@
         "a": 1,
         "rgb": 5533688
       }
+    },
+    {
+      "query": "Астро",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0,
+  "textFadeMultiplier": -1.5,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.3046875,
   "repelStrength": 9.42708333333333,
   "linkStrength": 0.268229166666667,
   "linkDistance": 359,
-  "scale": 0.7132754626224455,
+  "scale": 0.5087618855792618,
   "close": false
 }
