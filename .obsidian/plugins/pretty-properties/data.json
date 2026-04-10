@@ -2,7 +2,8 @@
   "hiddenProperties": [
     "cover",
     "banner",
-    "icon"
+    "icon",
+    "cssclasses"
   ],
   "propertyPillColors": {},
   "propertyLongtextColors": {},
@@ -115,7 +116,9 @@
   "enableIconsInPopover": false,
   "enableCoversInPopover": false,
   "hideAllEmptyProperties": false,
-  "hiddenWhenEmptyProperties": [],
+  "hiddenWhenEmptyProperties": [
+    "cssclasses"
+  ],
   "iconInTitle": false,
   "titleIconSize": 30,
   "titleTextIconMatchTitleSize": true,

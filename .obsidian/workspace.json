@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8565d36de4b7eab2",
+        "id": "f8584c0a7a719a9b",
         "type": "tabs",
         "children": [
           {
-            "id": "2bc613b0b7c32382",
+            "id": "76e79a3f1db4d447",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -207,14 +207,17 @@
       "templater-obsidian:Templater": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": false,
-      "smart-connections:Smart Lookup: Open lookup view": false
+      "smart-connections:Smart Lookup: Open lookup view": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "file-tree-alternative:File Tree Alternative Plugin": false
     }
   },
-  "active": "2bc613b0b7c32382",
+  "active": "76e79a3f1db4d447",
   "lastOpenFiles": [
-    "Наука/Астрономия/Млечный путь/art002e012588~large.jpg",
-    "Наука/Астрономия/Млечный путь/Млечный путь.md",
     "Наука/Астрономия/Млечный путь/Солнечная система/Солнечная система.md",
+    "Наука/Астрономия/Млечный путь/Млечный путь.md",
+    "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Планеты.md",
+    "Наука/Астрономия/Млечный путь/art002e012588~large.jpg",
     "Наука/Физика/Ускоритель заряженных частиц.md",
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Сатурн.md",
     "Наука/Физика/Ускоритель заряженных частиц/Без названия.md",
@@ -229,7 +232,6 @@
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Юпитер/Untitled.md",
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Сатурн",
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Юпитер/Юпитер.md",
-    "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Планеты.md",
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Юпитер",
     "Наука/Астрономия/Млечный путь/Солнечная система/Планеты/Марс/Марс.md",
     "Наука/Templates",
