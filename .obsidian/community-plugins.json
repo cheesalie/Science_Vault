@@ -11,5 +11,12 @@
   "pretty-properties",
   "obsidian-mind-map",
   "obsidian-full-calendar",
-  "buttons"
+  "buttons",
+  "extended-graph",
+  "highlightr-plugin",
+  "obsidian-image-layouts",
+  "image-captions",
+  "obsidian-image-toolkit",
+  "pdf-plus",
+  "editing-toolbar"
 ]
